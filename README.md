@@ -13,7 +13,7 @@
   <br><br>
   <!-- Sponsor logos in one line -->
   <br>
-  <img src="SPONSOR1_LOGO_URL" alt="Sponsor 1" width="60"/>
+  <img src=https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/cropped_circle_image%20(1).png" alt="ICPC Circle Image" width="300/>
   <img src="SPONSOR2_LOGO_URL" alt="Sponsor 2" width="60"/>
   <img src="SPONSOR3_LOGO_URL" alt="Sponsor 3" width="60"/>
   <img src="SPONSOR4_LOGO_URL" alt="Sponsor 4" width="60"/>
