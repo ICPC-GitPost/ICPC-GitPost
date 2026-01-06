@@ -15,3 +15,6 @@
   <img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/Pinely.png" alt="Pinely" width="250"/>
   <img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/WINCENT.png" alt="WINCENT" width="300"/>
 </p>
+ <h2></h2>
+  <p>ICPC-GitPost Guide</p>
+  <img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/ICPC-GitPost Guide.png" alt="ICPC-gp guide" width="800"/>
