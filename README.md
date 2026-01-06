@@ -17,4 +17,4 @@
 </p>
  <h2></h2>
   <p>ICPC-GitPost Guide</p>
-  <img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/ICPC-GitPost Guide.png" alt="ICPC-gp guide" width="800"/>
+  <img src="https://raw.githubusercontent.com/ICPC-GitPost/ICPC-Images/main/ICPC-GitPost.png" alt="ICPC-gp" width="934"/>
